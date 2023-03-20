@@ -1,0 +1,33 @@
+.card-img-top-blog {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+  object-fit: cover;
+  height: 250px;
+
+}
+
+.card-title-blog{
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.preview-text {
+  color: grey; 
+  text-overflow: ellipsis; 
+  overflow: hidden; 
+  white-space: nowrap; 
+  word-wrap: break-word; 
+}
+/* .btn-custom3{
+  color: ;
+} */
+
+/* .preview-text {
+  color: grey; 
+  overflow: hidden; 
+  height: 49px;
+  line-height: 16px; 
+  position: relative;
+  word-wrap: break-word;
+}
+
+.preview-text:after { content: "..."; position: absolute; right: 0; top: 30px;} */

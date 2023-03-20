@@ -1,0 +1,37 @@
+/* #footer {
+  position: fixed;
+  bottom: 0;
+  background-color: #3E3939;
+  opacity: 75%;
+} */
+
+/* #footer {
+  position: fixed;
+  bottom: 0;
+  background-color: #1B1717;
+  opacity: 75%;
+} */
+
+ #footer {
+ bottom: 0;
+  background-color: #91AAA7;
+}
+
+/* #footer {
+  position: fixed;
+  bottom: 0;
+  background-color: #BA8449;
+  opacity: 85%;
+} */
+
+#send {
+background-color: #3E3939;
+};
+
+ /* @media screen and (max-width: 1100px) {
+  .moveFooter {
+    
+   
+  }
+} */
+

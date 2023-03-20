@@ -1,0 +1,13 @@
+ .btn-custom {
+  background-color: #BA8449;
+} 
+
+/* .btn-custom {
+  background-color: #3E3939;
+} */
+
+@media screen and (max-width: 600px) {
+  .navbarMargin {
+    margin-bottom: 1em;
+  }
+}

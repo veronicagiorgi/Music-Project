@@ -1,0 +1,31 @@
+.blog-hero{
+  background-image: url(https://cdn.pixabay.com/photo/2022/08/19/21/26/cello-7397745_960_720.jpg);
+  display: flex;
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  margin-top: 0;
+  margin-bottom: 3em;
+}
+
+.blog-title{
+align-items: center;
+margin-left: 3em;
+}
+/* .main-box{
+  box-sizing: border-box;
+} */
+
+/* .blog-hero{
+  background-image: url(https://cdn.pixabay.com/photo/2022/12/21/22/50/cellist-7671147_960_720.jpg);
+  display: flex;
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  margin-top: 0;
+  margin-bottom: 3em;
+} */
+
+

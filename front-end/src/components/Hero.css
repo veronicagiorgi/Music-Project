@@ -1,0 +1,35 @@
+section {
+  margin-top: 100px;
+}
+ @media screen and (max-width: 600px) {
+  #resize {
+    height: 150px;
+    width: 150px;
+    position: relative;
+    bottom: 100px;
+  }
+}
+  /* #jumbotron {
+  background-image: url(https://img.freepik.com/premium-photo/hands-holding-music-instruments_53876-54271.jpg?w=1380);
+  background-position: center bottom;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 0;  
+} */
+
+  #jumbotron {
+  background-image: url(https://img.freepik.com/free-photo/acoustic-guitar-chair-close-up-brown-guitar-black-wall_1150-21884.jpg?w=740&t=st=1678632720~exp=1678633320~hmac=e6da265a43d998192090989a199bd75ea9f3ee5a291006370914b42068012d70);
+  background-position: center;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 0;   
+}
+
+ .resize {
+  height: 180px;
+  width: 200px;
+  position: relative;
+  bottom: 100px;
+} 
